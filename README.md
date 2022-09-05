@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **sahniak56@gmail.comm**
+- 📫 How to reach me **sahniak56@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PkEBb1OTslySbdkzq4h1REFgTYCbTusk/view?usp=sharing](https://drive.google.com/file/d/1PkEBb1OTslySbdkzq4h1REFgTYCbTusk/view?usp=sharing)
 
