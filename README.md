@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek7cabhi" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek7cabhi?logo=twitter&style=for-the-badge" alt="abhishek7cabhi" /></a> </p>
 
-- 🔭 I’m currently working on **Subscription based video streaming app**
+- 🔭 I’m currently working on **Python Node JS Development**
 
 - 🌱 I’m currently learning **React ,Javascript ,Python ,Node JS**
 
-- 👨‍💻 All of my projects are available at [https://technicalabhi.netlify.app](https://technicalabhi.netlify.app)
+- 👨‍💻 All of my projects are available at [https://technicalabhi.tech](https://technicalabhi.tech)
 
 - 💬 Ask me about **React, Javascript**
 
